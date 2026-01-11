@@ -197,7 +197,7 @@ export default function App() {
 
           <section className="card">
             <span className="badge">Step 5</span>
-            <h2>Production & Domain</h2>
+            <h2>Productions & Domain</h2>
             <p>Make your app production ready.</p>
             <ul>
               <li>Configure CloudFront</li>
